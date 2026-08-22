@@ -20,11 +20,6 @@ A countdown/stopwatch timer built with core Python logic.
 `balondoranalysis.py` + `balonwinners.csv`
 Analyzes historical Ballon d'Or winner data — reads from a CSV and generates insights/stats.
 
-## 🛠️ Tech Stack
-- Python 3
-- JSON (for data persistence)
-- CSV (for data analysis)
-
 ## 🚀 How to Run
 ```bash
 python <filename>.py
