@@ -41,7 +41,7 @@ Analyzes historical Ballon d'Or winner data — reads from a CSV and generates i
 - Compare two Ballon d'Or winning seasons
 - Sort based on a custom grading system
 
-# 5. Shopping App Simulator (OOP)
+### 5. Shopping App Simulator (OOP)
 
 A command-line shopping cart simulator built with core Python and object-oriented design. Includes a shop-owner mode for stocking inventory and a customer mode for browsing, cart management, checkout, and order history.
 
