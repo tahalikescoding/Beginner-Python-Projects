@@ -103,11 +103,11 @@ city_timezones = {
     # Australia / Oceania
     ("Sydney", "Melbourne", "Canberra", "Hobart"): "Australia/Sydney",
     ("Brisbane", "Gold Coast", "Cairns"): "Australia/Brisbane",
-    ("Adelaide"): "Australia/Adelaide",
-    ("Perth"): "Australia/Perth",
-    ("Darwin"): "Australia/Darwin",
+    ("Adelaide",): "Australia/Adelaide",
+    ("Perth",): "Australia/Perth",
+    ("Darwin",): "Australia/Darwin",
     ("Auckland", "Wellington", "Hamilton"): "Pacific/Auckland",
-    ("Honolulu"): "Pacific/Honolulu",
+    ("Honolulu",): "Pacific/Honolulu",
 }
 
 def info(city):
