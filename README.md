@@ -10,7 +10,7 @@ A collection of beginner-friendly Python projects covering core concepts like fi
 Calculates and displays the current time across different cities/time zones.
 - Uses dictionaries, `datetime`, and `zoneinfo`
 
-### Bank Simulator (OOP)
+### 2. Bank Simulator (OOP)
 
 A command-line banking system built with Python and object-oriented programming. Supports multiple account types, persistent storage, compound interest, monthly withdrawal limits, cross-account transfers, and password-protected user accounts.
 
